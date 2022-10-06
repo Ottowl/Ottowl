@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ottowl and I'm a Computer Science Student, from Poços de Caldas - Mg - Brazil</h2>
+<h2 align="left">Hi 👋! My name is Ottowl and I'm a Computer Science Student, from Brazil</h2>
 
 ###
 
